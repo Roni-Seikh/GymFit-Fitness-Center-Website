@@ -1,9 +1,7 @@
 ### **GymFit Fitness Center Website**  
 **A responsive fitness website built with HTML, CSS, and JavaScript**  
 
-![GymFit Banner](https://via.placeholder.com/1200x500?text=GymFit+Fitness+Website)  
-*(Replace with an actual project screenshot or banner)*  
-
+![GymFit Banner] (Screenshots/Home page.png)
 ## **🚀 Live Demo**  
 👉 [View Live Project](#) *(Replace `#` with GitHub Pages link once deployed)*  
 
