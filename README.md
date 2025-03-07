@@ -35,14 +35,15 @@ This project was developed as part of my **Front-End Web Developer Internship at
 
 ## **📂 Folder Structure**  
 ```
-/GymFit-Fitness-Website  
-    ├── assets/  
-    │   ├── images/     # Website images  
-    │   ├── css/        # Stylesheets  
-    │   ├── js/         # JavaScript files  
-    ├── index.html      # Main webpage  
-    ├── README.md       # Project documentation  
-```  
+GymFit-Fitness-Center-Website/
+├── img/                  # General images (icons, logos, etc.)
+├── Screenshots/          # All screenshots of your project
+├── README.md             # Project documentation
+├── index.html            # Main HTML file
+├── css/                  # CSS files
+│   └── style.css         # Main stylesheet
+└── js/                   # JavaScript files
+    └── script.js         # Main script file
 
 ---
 
