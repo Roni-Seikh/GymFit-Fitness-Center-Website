@@ -47,7 +47,6 @@ This project was developed as part of my **Front-End Web Developer Internship at
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### 🏠 Home Page  
 ![Home Page](https://raw.githubusercontent.com/Roni-Seikh/GymFit-Fitness-Center-Website/main/Screenshots/Home%20page.png)  
