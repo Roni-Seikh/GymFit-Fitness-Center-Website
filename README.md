@@ -46,9 +46,9 @@ This project was developed as part of my **Front-End Web Developer Internship at
 
 ---
 
+
 ## **📸 Screenshots**  
-![Home Page](https://via.placeholder.com/800x400?text=Homepage+Screenshot)  
-*(Replace with actual screenshots)*  
+![Home Page](https://github.com/Roni-Seikh/GymFit-Fitness-Center-Website/blob/main/Screenshots/Home%20page.png)
 
 ---
 
