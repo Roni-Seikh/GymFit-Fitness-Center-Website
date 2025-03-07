@@ -1,30 +1,40 @@
-GymFit Fitness Center Website
-A responsive fitness website built with HTML, CSS, and JavaScript
+### **GymFit Fitness Center Website**  
+**A responsive fitness website built with HTML, CSS, and JavaScript**  
 
-🚀 Live Demo
-👉 View Live Project (Replace # with GitHub Pages link once deployed)
+![GymFit Banner](https://via.placeholder.com/1200x500?text=GymFit+Fitness+Website)  
+*(Replace with an actual project screenshot or banner)*  
 
-📌 Project Overview
-GymFit Fitness Center is a modern, fully responsive fitness website designed to provide users with information about gym services, membership plans, trainers, and workout schedules.
+## **🚀 Live Demo**  
+👉 [View Live Project](#) *(Replace `#` with GitHub Pages link once deployed)*  
 
-This project was developed as part of my Front-End Web Developer Internship at Virtunexa.
+---
 
-🎯 Features
-✔️ Fully responsive and mobile-friendly design
-✔️ Interactive UI with animations
-✔️ Membership plans section
-✔️ Trainers showcase
-✔️ Contact form integration
-✔️ Smooth scrolling and navigation
+## **📌 Project Overview**  
+**GymFit Fitness Center** is a modern, fully responsive fitness website designed to provide users with information about gym services, membership plans, trainers, and workout schedules.  
 
-🛠️ Tech Stack
-HTML – Structure of the website
-CSS (Flexbox & Grid) – Styling and responsive layout
-JavaScript – Interactive elements and animations
+This project was developed as part of my **Front-End Web Developer Internship at Virtunexa**.  
 
-📂 Folder Structure
-bash
-Copy code
+---
+
+## **🎯 Features**  
+✔️ Fully responsive and mobile-friendly design  
+✔️ Interactive UI with animations  
+✔️ Membership plans section  
+✔️ Trainers showcase  
+✔️ Contact form integration  
+✔️ Smooth scrolling and navigation  
+
+---
+
+## **🛠️ Tech Stack**  
+- **HTML** – Structure of the website  
+- **CSS (Flexbox & Grid)** – Styling and responsive layout  
+- **JavaScript** – Interactive elements and animations  
+
+---
+
+## **📂 Folder Structure**  
+```
 /GymFit-Fitness-Website  
     ├── assets/  
     │   ├── images/     # Website images  
@@ -32,29 +42,39 @@ Copy code
     │   ├── js/         # JavaScript files  
     ├── index.html      # Main webpage  
     ├── README.md       # Project documentation  
+```  
 
-📸 Screenshots
+---
 
-(Replace with actual screenshots)
+## **📸 Screenshots**  
+![Home Page](https://via.placeholder.com/800x400?text=Homepage+Screenshot)  
+*(Replace with actual screenshots)*  
 
-📦 Installation & Usage
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/Roni-Seikh/GymFit-Fitness-Website.git
-cd GymFit-Fitness-Website
-Open index.html in your browser.
+---
 
-🚀 Deployment
-This project is deployed on GitHub Pages. You can access the live version here (Replace # with actual link).
+## **📦 Installation & Usage**  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Roni-Seikh/GymFit-Fitness-Website.git
+   cd GymFit-Fitness-Website
+   ```
+2. Open `index.html` in your browser.  
 
+---
 
-💡 Learnings & Experience
-✔️ Improved my frontend development skills
-✔️ Learned about responsive design techniques
-✔️ Implemented JavaScript animations & effects
-✔️ Worked on a real-world project during my internship at Virtunexa
+## **🚀 Deployment**  
+This project is deployed on **GitHub Pages**. You can access the live version [here](#) *(Replace `#` with actual link)*.  
 
-📬 Contact Me
-📌 GitHub: Roni-Seikh
-📌 LinkedIn: Your LinkedIn (Replace with your profile link)
+---
+
+## **💡 Learnings & Experience**  
+✔️ Improved my **frontend development skills**  
+✔️ Learned about **responsive design techniques**  
+✔️ Implemented **JavaScript animations & effects**  
+✔️ Worked on a real-world project during my **internship at Virtunexa**  
+
+---
+
+## **📬 Contact Me**  
+📌 **GitHub:** [Roni-Seikh](https://github.com/Roni-Seikh)  
+📌 **LinkedIn:** [Your LinkedIn]
