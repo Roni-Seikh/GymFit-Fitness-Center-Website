@@ -44,7 +44,7 @@ GymFit-Fitness-Center-Website/
 │   └── style.css         # Main stylesheet
 └── js/                   # JavaScript files
     └── script.js         # Main script file
-
+```
 ---
 
 ## 📸 Screenshots
