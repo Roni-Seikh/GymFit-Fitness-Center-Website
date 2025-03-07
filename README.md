@@ -59,6 +59,20 @@ This project was developed as part of my **Front-End Web Developer Internship at
 
 ---
 
+## 📱 Mobile Screens  
+
+### 📱 Home Page (Mobile)  
+![Mobile Home Page](https://raw.githubusercontent.com/Roni-Seikh/GymFit-Fitness-Center-Website/main/Screenshots/Mobile%20Screen%20Home%20Page.png)  
+
+### 📱 About Page (Mobile)  
+![Mobile About Page](https://raw.githubusercontent.com/Roni-Seikh/GymFit-Fitness-Center-Website/main/Screenshots/Mobile%20Screen%20About%20Section.png)  
+
+### 📱 Contact Section (Mobile)  
+![Mobile Contact Section](https://raw.githubusercontent.com/Roni-Seikh/GymFit-Fitness-Center-Website/13f7a65d7d942b527a564c17521ad7f2d5465738/Screenshots/Mobile%20screen%20Contact%20Section.png)
+
+
+---
+
 ## **📦 Installation & Usage**  
 1. Clone the repository:  
    ```bash
