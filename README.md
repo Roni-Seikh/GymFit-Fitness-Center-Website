@@ -3,10 +3,6 @@
 
 ![GymFit Banner](https://github.com/Roni-Seikh/GymFit-Fitness-Center-Website/blob/main/Screenshots/Home%20page.png)
 
-
-## **🚀 Live Demo**  
-👉 [View Live Project](#) *(Replace `#` with GitHub Pages link once deployed)*  
-
 ---
 
 ## **📌 Project Overview**  
