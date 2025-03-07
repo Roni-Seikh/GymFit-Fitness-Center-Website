@@ -84,11 +84,6 @@ GymFit-Fitness-Center-Website/
 
 ---
 
-## **🚀 Deployment**  
-This project is deployed on **GitHub Pages**. You can access the live version [here](#) *(Replace `#` with actual link)*.  
-
----
-
 ## **💡 Learnings & Experience**  
 ✔️ Improved my **frontend development skills**  
 ✔️ Learned about **responsive design techniques**  
