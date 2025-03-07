@@ -76,5 +76,5 @@ This project is deployed on **GitHub Pages**. You can access the live version [h
 
 ## **📬 Contact Me**  
 📌 **GitHub:** [Roni-Seikh](https://github.com/Roni-Seikh)  
-📌 **LinkedIn:** [Your LinkedIn]
-(https://in.linkedin.com/in/roniseikh)
+📌 **LinkedIn:** [**Roni Seikh**](https://in.linkedin.com/in/roniseikh)
+
