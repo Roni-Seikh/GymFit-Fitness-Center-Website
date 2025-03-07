@@ -46,15 +46,19 @@ This project was developed as part of my **Front-End Web Developer Internship at
 
 ---
 
+## 📸 Screenshots
 
-## **📸 Screenshots**
-🏠 Home Page
+### 🏠 Home Page
+![Home Page](https://raw.githubusercontent.com/Roni-Seikh/GymFit-Fitness-Center-Website/main/Screenshots/Home%20page.png)
 
-💳 Membership Page
+### 💳 Membership Page
+![Membership Page](https://raw.githubusercontent.com/Roni-Seikh/GymFit-Fitness-Center-Website/main/Screenshots/Membership%20page.png)
 
-👨‍🏫 Trainers Page
+### 👨‍🏫 Trainers Page
+![Trainers Page](https://raw.githubusercontent.com/Roni-Seikh/GymFit-Fitness-Center-Website/main/Screenshots/Trainers%20page.png)
 
-📞 Contact Page
+### 📞 Contact Page
+![Contact Page](https://raw.githubusercontent.com/Roni-Seikh/GymFit-Fitness-Center-Website/main/Screenshots/Contact%20page.png)
 
 ---
 
